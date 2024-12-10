@@ -75,12 +75,12 @@
 ### Cloudinary Url for image
 ![Screenshot 2024-12-10 162524](https://github.com/user-attachments/assets/64f2ad75-79d9-463c-b9bb-59899626e07f)
 
-### Before Redic Output
+### Before Redis Output
 ![Screenshot 2024-12-10 162549](https://github.com/user-attachments/assets/419b80b7-f2df-413b-8199-15f35ab9e240)
 ### Get Request
 ![Screenshot 2024-12-10 162624](https://github.com/user-attachments/assets/96558773-df26-4f64-b407-ff33ffe31528)
 
-### After Get Request Redic Output
+### After Get Request Redis Output
 ![Screenshot 2024-12-10 162648](https://github.com/user-attachments/assets/7f40378b-1f6e-4398-895c-0c9b513fc5ae)
 
 ### Database Product Table
